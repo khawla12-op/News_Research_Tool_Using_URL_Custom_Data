@@ -1,0 +1,13 @@
+langchain_community
+# for UnstructuredURLLoader
+unstructured 
+libmagic
+python-magic
+python-magic-bin
+#For vector DB
+faiss-cpu
+sentence-transformers
+pandas
+langchain_openai
+python-dotenv
+streamlit
